@@ -1,0 +1,1 @@
+/// Compute Object Properties
